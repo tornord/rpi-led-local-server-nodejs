@@ -12,8 +12,8 @@
   "author": "satya sankar sahoo (www.myelectronicslab.com)",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^2.5.6",
-    "express": "^4.15.3",
-    "rpi-gpio": "^0.8.1"
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "git://github.com/JamesBarwell/rpi-gpio.js.git#epoll-2.0.9": "latest"
   }
 }
